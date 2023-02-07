@@ -1,0 +1,88 @@
+body {
+    cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>💲</text></svg>") 16 0, auto;
+    background-color: rgb(1, 71, 137);
+}
+
+main {
+    background: linear-gradient(rgb(106, 71, 167), rgb(1, 71, 137));
+}
+
+#headername {
+    font-weight: bold;
+    color: white;
+    font-size: 45px;
+}
+
+
+#stock-symbol {
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+}
+
+#coin-name {
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+}
+
+
+#stocks {
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+}
+#crypto {
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+}
+
+.tree-beard {
+    height: 500px;
+    width: 100%;
+    margin-top: 0px;
+    background-image: url("https://i.pinimg.com/originals/56/92/a6/5692a6ad885acf2b870911694ad1b010.gif");
+    background-size: cover;
+    background-position: center;
+    border-top: 5px solid rgb(68, 108, 220);
+}
+
+span {
+    content: "\0024";
+    color: rgb(15, 14, 14)
+}
+
+.head-space {
+    position: fixed;
+    background-color: rgb(107, 142, 177);
+    padding: 10px;
+}
+
+.riley {
+    width: 90px;
+    position: absolute;
+    right: 91%;
+    top: 80%;
+}
+
+.stumpy {
+    height: 300px;
+    width: 100%;
+    background-image: url("https://bestanimations.com/media/sky/2018762848pink-beautiful-sky-gif.gif");
+    background-size: cover;
+    background-position: center;
+    border-top: 5px solid rgb(15, 14, 14);
+    border-bottom: 5px solid rgb(15, 14, 14);
+}
+
+.footer {
+    background-color: rgb(15, 14, 14);
+    padding: 10px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: aliceblue;
+    border-top: 5px solid rgb(15, 14, 14);
+    
+}
